@@ -1,7 +1,7 @@
 # send_email_with_attachements_smtp_python
 This Python Script will help you <b>send emails containing attachment</b>, to many people, programmatically, using smtp (Simple Mail Transfer Protocol) service.
 
-I used this module as the last module of a series of modules of a data analysis pipeline that I developed for analyzing data and send critical alerts to decision makers. The pipeline would collect data from a source, transform and process the data, look for critical information, store them in a directory, then send it out by email, on a daily-basis, <b>without any human intervention<</b>>.
+I used this module as the last module of a series of modules of a data analysis pipeline that I developed for analyzing data and send critical alerts to decision makers. The pipeline would collect data from a source, transform and process the data, look for critical information, store them in a directory, then send it out by email, on a daily-basis, <b>without any human intervention</b>.
 
 <b> How to use it?</b>
 
